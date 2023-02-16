@@ -1,0 +1,17 @@
+{
+  "name": "telegraph_practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "telegraph.js",
+  "scripts": {
+    "dev": "nodemon telegraph.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "nodemon": "^2.0.20",
+    "telegraf": "^4.11.2"
+  }
+}
